@@ -1,3 +1,7 @@
+Note: This is just a fork to play around with and better to better understand pyethereum
+
+
+
 [![Build Status](https://travis-ci.org/ethereum/pyethereum.svg?branch=develop)](https://travis-ci.org/ethereum/pyethereum)
 
 This is the Python core library of the Ethereum project.
